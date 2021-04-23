@@ -664,7 +664,7 @@ Was chosen from the hepatitis data to understand how the model predicted a label
 
 Below is the explainer results from LIME;
 
-[LIME Explainer Results](figures/lime_explainer.png)
+![LIME Explainer Results](figures/lime_explainer.png)
 
 From the above results, it was observed that, the model truly predicted the right label (by given a prediction probability of **`0.58 to the Die(0)`** and **`0.42 to Live(1)`**) for the data that was provided. The bar charts represent the importance given to the data features and the color of the bar charts indicates the class the data features contribute to (**`orange for Live(1)`** and **`blue for Die(0)`**).
 
