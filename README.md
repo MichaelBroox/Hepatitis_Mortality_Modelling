@@ -685,7 +685,7 @@ A negative value contributes to the prediction probability of the class, **`'Die
 
 Below is a bar chart representation of the above data table; Red for Die(0) and green for Live(1).
 
-[Local Explanation for class Live(1)](figures/lime_tabular_explainer.png)
+![Local Explanation for class Live(1)](figures/lime_tabular_explainer.png)
 
 ## Analysing Model's Prediction
 
@@ -704,7 +704,7 @@ Also, taking the patient who didn't have **`ascites`**, the model predicted that
 
 The figure below shows the probabilities that the hepatitis patients from the 50 data samples will die in relation to ascites;
 
-[Ascites Mortality Probability](figures/relplot_of_ascites_mortality_probability.png)
+![Ascites Mortality Probability](figures/relplot_of_ascites_mortality_probability.png)
 
 All other plots can be seen in the **`Predictive Analysis of Hepatitis Mortality  notebook`** and also inside the directory called **`figures`** in this repository.
 
