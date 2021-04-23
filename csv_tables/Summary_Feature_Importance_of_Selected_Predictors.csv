@@ -1,0 +1,11 @@
+DecisionTree,RandomForest,AdaBoost,ExtraTree,GradientBoosting,XGBOOST
+ascites,ascites,bilirubin,ascites,ascites,ascites
+age,bilirubin,sgot,malaise,bilirubin,spiders
+spiders,protime,protime,spiders,spiders,malaise
+bilirubin,alk_phosphate,age,bilirubin,malaise,spleen_palpable
+alk_phosphate,malaise,alk_phosphate,age,sgot,sgot
+sgot,sgot,spiders,sgot,age,bilirubin
+protime,age,malaise,protime,alk_phosphate,protime
+malaise,spiders,spleen_palpable,alk_phosphate,protime,age
+fatigue,spleen_palpable,ascites,spleen_palpable,spleen_palpable,alk_phosphate
+spleen_palpable,fatigue,fatigue,fatigue,fatigue,fatigue

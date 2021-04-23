@@ -1,0 +1,7 @@
+,Model Name,Train Accuracy,Test Accuracy
+0,DecisionTree,1.0,0.9
+1,RandomForest,1.0,0.9166666666666666
+2,AdaBoost,1.0,0.9
+3,ExtraTree,1.0,0.8666666666666667
+4,GradientBoosting,1.0,0.8833333333333333
+5,XGBOOST,1.0,0.9333333333333333

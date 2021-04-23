@@ -1,0 +1,9 @@
+DecisionTree,RandomForest,AdaBoost,ExtraTree,GradientBoosting,XGBOOST
+ascites,bilirubin,sgot,ascites,ascites,ascites
+sgot,ascites,bilirubin,malaise,bilirubin,spiders
+spiders,protime,protime,bilirubin,sgot,malaise
+protime,age,age,sgot,malaise,spleen_palpable
+age,sgot,ascites,age,spiders,bilirubin
+bilirubin,malaise,spleen_palpable,spiders,age,sgot
+malaise,spiders,spiders,protime,protime,age
+spleen_palpable,spleen_palpable,malaise,spleen_palpable,spleen_palpable,protime
