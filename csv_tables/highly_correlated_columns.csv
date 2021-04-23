@@ -1,0 +1,14 @@
+,,correlation_value
+class,bilirubin,-0.4444143386636536
+bilirubin,varices,-0.39133005916484515
+bilirubin,albumin,-0.3701577446257987
+varices,histology,-0.3579360162391222
+histology,spiders,-0.35518513765398485
+liver_firm,alk_phosphate,-0.35400504486947704
+ascites,histology,-0.3456193517707138
+histology,class,-0.33603329346500743
+albumin,alk_phosphate,-0.33586354383388906
+albumin,histology,-0.306571348262182
+ascites,albumin,0.5366800117005458
+malaise,fatigue,0.5866792000442027
+anorexia,malaise,0.5996470660920614

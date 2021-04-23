@@ -1,0 +1,15 @@
+,count,unique,top,freq
+class,154,2,Live,122
+sex,154,2,Male,139
+steroid,154,2,Yes,79
+antivirals,154,2,Yes,130
+fatigue,154,2,No,101
+malaise,154,2,Yes,93
+anorexia,154,2,Yes,122
+liver_big,154,2,Yes,130
+liver_firm,154,2,Yes,94
+spleen_palpable,154,2,Yes,124
+spiders,154,2,Yes,103
+ascites,154,2,Yes,134
+varices,154,2,Yes,136
+histology,154,2,No,84

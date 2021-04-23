@@ -1,0 +1,8 @@
+,age,bilirubin,alk_phosphate,sgot,albumin,protime
+Number of Outliers,1.0,17.0,9.0,14.0,6.0,41.0
+Outliers Percentage,0.65,11.04,5.84,9.09,3.9,26.62
+75% Quantile,50.0,1.5,119.75,99.5,4.2,65.5
+25% Quantile,32.0,0.8,78.0,33.0,3.5,57.0
+Inter Quantile Range,18.0,0.7,41.75,66.5,0.7000000000000002,8.5
+Maximum Value,77.0,2.55,182.375,199.25,5.25,78.25
+Minimum Value,5.0,-0.24999999999999978,15.375,-66.75,2.4499999999999997,44.25
